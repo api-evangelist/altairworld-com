@@ -1,4 +1,4 @@
-# altairworld-com
+# Altair AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-altairworld-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://altairworld.com/
+Altair AI is a financial and AI consulting firm based in the San Francisco Bay Area. They provide market research, AI tool integration, and custom AI workspaces backed by proprietary equity research and market indicators. Their services help teams read markets and deploy AI solutions, offering research agents, indicators, and a workspace platform for AI-driven workflows.
+
+**Areas:** AI · Finance · Consulting · Research · Market-Data · SanFrancisco
+
+## Altair AI on APIs.io
+
+Everything profiled for Altair AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/altairworld-com/](https://apis.io/providers/altairworld-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Altair HTTP Research API](https://apis.io/apis/altairworld-com/altair-http-research-api/) — Published equity research reports and structured portfolio signals.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Altairworld Com Agentic Access](https://apis.io/agentic-access/altairworld-com/altairworld-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Altair AI API Rules](https://apis.io/rules/altairworld-com/altairworld-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Altairworld Com Domain Security](https://apis.io/security/altairworld-com/altairworld-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://altairworld.com/)
+- [Documentation](https://altairworld.com/mcp)
+- [Getting started](https://altairworld.com/register)
+- [Support](https://altairworld.com/enquiry)
+- [Terms of service](https://altairworld.com/terms)
+- [Privacy policy](https://altairworld.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.0** — thin · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 15.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 16.4** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/altairworld-com/](https://apis.io/providers/altairworld-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Altair AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/altairworld-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
